@@ -72,10 +72,12 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We make three variables: isStudent, age, and zip; we set the variables to true, 34, and 55407 respectively;
+// We check if isStudent is true and that zip is greater than 80000 to console.log 'You're a student on the West Coast!'; this does not qualify
+// We then check if isStudent is fasle or age is less than 30 to console.log 'What are your hobbies?'; neither are true
+// Last we check if isStudent is true to console.log 'Welcome to Prime!'; this is true!
+// If none of the above are true, then we console.log 'How about the weather?'
+// We console.log 'Welcome to Prime!'
 
 //CODE
 /*
