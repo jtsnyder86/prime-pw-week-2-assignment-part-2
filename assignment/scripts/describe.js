@@ -30,6 +30,7 @@ if (number >= 2) {
 // We then write a conditional statement to console.log two possible responses.
 // The conditional code says if the variable "name" is 'Mary' then the console.log will post 'Hi, Mary!'
 // If the variable "name" is something other than Mary, the console.log will post "How do you do?"
+// The name is not Mary, it is Dane. We console.log "How do you do?"
 
 //CODE
 /*
@@ -45,10 +46,11 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We first make a variable called "secret" and don't set it to anything initially; next we make a variable called "code" and set it to 123.
+// We check if code is exactly 123, and if it is we will set 'secret' to 'super';
+// Then we multiply code by two; now code is 246;
+// We check if code is greater than 250; if it is, secret will set to 'duper'; it is not greater than 250;
+// We console.log 'super'
 
 //CODE
 /*
