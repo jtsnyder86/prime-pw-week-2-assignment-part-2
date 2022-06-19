@@ -153,8 +153,12 @@ if (mix === true) {
 
 /*
 let temp = 40;
+// FIX - instructions say that both should be variables; time is currently a constant;
+// Should be "let time = 4;"
 const time = 4;
 
+// FIX - instructions ask for conditional to specify both sides be true (and), but currently code says either side can be true (or);
+// Should be temp > 39 && time >= 4
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
