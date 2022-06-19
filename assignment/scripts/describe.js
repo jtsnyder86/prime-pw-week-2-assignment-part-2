@@ -26,10 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We make a variable called "name" and set it to "Dane".
+// We then write a conditional statement to console.log two possible responses.
+// The conditional code says if the variable "name" is 'Mary' then the console.log will post 'Hi, Mary!'
+// If the variable "name" is something other than Mary, the console.log will post "How do you do?"
 
 //CODE
 /*
